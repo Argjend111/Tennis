@@ -2,4 +2,4 @@
 https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection
 
 Provided by a Roboflow user
-License: CC BY 4.0
+License: CC BY 4
